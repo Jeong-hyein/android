@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">위치추적</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPlH2s0y14OSJSZEB8wZn9sN9_-TuSB4A</string>
+</resources>
